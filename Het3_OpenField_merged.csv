@@ -1,0 +1,446 @@
+"Animal_ID","Sex","Line","Birth.Date","Comments","Stage","Trial","Apparatus","Date","Time","Duration_s","Total.Distance_m","Thigmo_Entries","Thigmo_Exit_Number","Thigmo_Time_s","Thigmo_Distance_m","Center_Entries","Center_Exit_Number","Center_Time_s","Center_Distance_m","Test_Date","Age_at_Test"
+53115,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM","First stage",1,"Open Field 3",NA,NA,600,14.441,30,29,477.7,11.201,29,29,122.3,3.24,2024-02-05,13
+53115,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM","First stage",1,"Open Field 3",NA,NA,600,12.253,27,26,545.2,10.32,27,27,54.8,1.934,2024-03-18,14
+53116,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM","First stage",1,"Open Field 4",NA,NA,600,15.91,52,51,520.3,11.85,51,51,79.7,4.06,2024-03-18,14
+53116,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM","First stage",1,"Open Field 4",NA,NA,600,11.364,37,36,472.6,8.604,36,36,127.4,2.76,2024-02-05,13
+53117,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Incorrect mouse# was entered for this mouse on train day, 53119
+","First stage",1,"Open Field 1",NA,NA,600,11.098,46,46,466.9,8.317,46,45,133.1,2.782,2024-02-05,13
+53117,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Incorrect mouse# was entered for this mouse on train day, 53119
+","First stage",1,"Open Field 4",NA,NA,600,5.043,9,8,585.4,4.619,8,8,14.6,0.423,2024-03-18,14
+53118,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM","First stage",1,"Open Field 4",NA,NA,600,4.966,7,6,589.5,4.615,6,6,10.5,0.351,2024-03-18,14
+53118,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM","First stage",1,"Open Field 2",NA,NA,600,11.601,34,33,519.4,9.022,33,33,80.6,2.579,2024-02-05,13
+53119,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,13.472,25,24,567.4,11.106,24,24,32.6,2.366,2024-02-05,13
+53119,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,16.074,22,21,562.2,13.754,21,21,37.8,2.32,2024-03-18,14
+53120,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,6.297,1,0,600,6.297,0,0,0,0,2024-02-05,13
+53120,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,5.27,1,0,600,5.27,0,0,0,0,2024-03-18,14
+53121,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Found dead 7/2","First stage",1,"Open Field 3",NA,NA,600,15.121,37,36,531.2,12.147,36,36,68.8,2.974,2024-02-05,13
+53121,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Found dead 7/2","First stage",1,"Open Field 3",NA,NA,600,19.589,52,51,520.4,14.052,52,52,79.6,5.537,2024-03-18,14
+53122,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Incorrect mouse# was entered for this mouse on train day, 53120
+","First stage",1,"Open Field 1",NA,NA,600,15.522,29,28,543.2,13.308,28,28,56.8,2.214,2024-03-18,14
+53122,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Incorrect mouse# was entered for this mouse on train day, 53120
+","First stage",1,"Open Field 4",NA,NA,600,9.192,20,19,558,7.55,19,19,42,1.643,2024-02-05,13
+53123,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Mouse did not arrive for habituation until 8 am on test day.
+","First stage",1,"Open Field 1",NA,NA,600,6.991,2,1,599.2,6.947,1,1,0.8,0.044,2024-02-05,13
+53123,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Mouse did not arrive for habituation until 8 am on test day.
+","First stage",1,"Open Field 2",NA,NA,600,5.277,1,0,591.7,5.238,1,1,8.3,0.039,2024-03-18,14
+53124,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq PM
+","First stage",1,"Open Field 2",NA,NA,600,14.927,33,32,533,12.062,32,32,67,2.866,2024-02-05,13
+53124,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq PM
+","First stage",1,"Open Field 4",NA,NA,600,11.85,7,6,587.1,11.06,6,6,12.9,0.789,2024-03-18,14
+53125,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,7.932,2,1,599.1,7.796,1,1,0.9,0.136,2024-03-18,14
+53125,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,11.161,35,34,536.1,8.62,34,34,63.9,2.541,2024-02-05,13
+53126,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,3.701,7,6,587.5,3.148,7,7,12.5,0.553,2024-03-18,14
+53126,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,10.092,20,20,484.7,7.277,20,19,115.3,2.815,2024-02-05,13
+53127,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,0.443,1,0,600,0.443,0,0,0,0,2024-02-05,13
+53127,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,11.636,9,8,587.2,10.648,8,8,12.8,0.989,2024-03-18,14
+53128,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,1.364,3,2,591.3,1.219,2,2,8.7,0.145,2024-02-05,13
+53128,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,3.458,6,5,594.2,3.149,6,6,5.8,0.309,2024-03-18,14
+53129,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Weight data missing from card
+","First stage",1,"Open Field 1",NA,NA,600,10.141,29,28,552,8.288,29,29,48,1.853,2024-02-05,13
+53129,"Female","(CByB6F1/J x C3D2F1/J)/J",2023-01-03," : Weight data missing from card
+","First stage",1,"Open Field 1",NA,NA,600,8.941,9,8,579.8,8.275,9,9,20.2,0.666,2024-03-18,14
+53170,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 4",NA,NA,600,9.577,21,20,561.1,8.308,20,20,38.9,1.269,2024-02-12,22
+53170,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 2",NA,NA,600,7.621,8,7,558.2,6.446,7,7,41.8,1.174,2024-01-29,22
+53172,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Respiratory distress, low BSC","First stage",1,"Open Field 1",NA,NA,600,13.79,27,26,560.2,12.136,26,26,39.8,1.654,2024-02-12,22
+53172,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Respiratory distress, low BSC","First stage",1,"Open Field 4",NA,NA,600,10.074,2,1,587.9,9.94,1,1,12.1,0.135,2024-01-29,22
+53173,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 2",NA,NA,600,16.545,51,50,484.5,11.62,50,50,115.5,4.925,2024-01-29,22
+53173,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 2",NA,NA,600,14.944,48,48,533.5,11.623,48,47,66.5,3.322,2024-02-12,22
+53174,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 3",NA,NA,600,14.054,28,27,561,12.147,27,27,39,1.907,2024-02-12,22
+53174,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 1",NA,NA,600,14.114,25,24,575,13.373,24,24,25,0.741,2024-01-29,22
+53176,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,600,7.327,7,6,582.3,6.655,6,6,17.7,0.672,2024-01-29,22
+53176,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 4",NA,NA,600,2.74,1,0,600,2.74,0,0,0,0,2024-02-12,22
+53177,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 1",NA,NA,600,11.408,18,17,582.5,10.628,17,17,17.5,0.78,2024-01-29,22
+53177,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 1",NA,NA,600,7.441,5,4,597.7,7.35,4,4,2.3,0.091,2024-02-12,22
+53178,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,20.802,49,49,516.7,16.107,49,48,83.3,4.695,2024-02-12,22
+53178,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,19.248,41,40,543.8,15.128,40,40,56.2,4.12,2024-01-29,22
+53179,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq PM","First stage",1,"Open Field 3",NA,NA,600,11.682,29,28,495.2,10.394,28,28,104.8,1.288,2024-02-12,22
+53179,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq PM","First stage",1,"Open Field 1",NA,NA,600,14.167,35,34,542.5,11.525,34,34,57.5,2.642,2024-01-29,22
+53180,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,6.787,4,3,598.9,6.745,3,3,1.1,0.042,2024-02-12,22
+53180,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,6.175,10,9,588.7,5.494,9,9,11.3,0.68,2024-01-29,22
+53181,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,9.857,2,1,596.7,9.697,2,2,3.3,0.16,2024-02-12,22
+53181,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,5.727,1,0,600,5.727,0,0,0,0,2024-01-29,22
+53182,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 1",NA,NA,600,11.321,23,22,532.3,8.991,22,22,67.7,2.33,2024-01-29,22
+53182,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 3",NA,NA,600,12.128,21,20,537.8,10.09,20,20,62.2,2.038,2024-02-12,22
+53183,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,12.305,8,7,594,11.923,7,7,6,0.382,2024-01-29,22
+53183,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,10.677,5,4,591.8,10.104,4,4,8.2,0.572,2024-02-12,22
+53184,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq PM
+","First stage",1,"Open Field 2",NA,NA,600,12.892,35,34,524.5,10.013,34,34,75.5,2.879,2024-01-29,22
+53184,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq PM
+","First stage",1,"Open Field 1",NA,NA,600,11.398,2,1,599.1,11.398,1,1,0.9,0,2024-02-12,22
+53185,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,12.191,38,37,460,8.409,37,37,140,3.781,2024-01-29,22
+53185,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,13.223,15,14,577.6,12.519,14,14,22.4,0.704,2024-02-12,22
+53186,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,10.119,24,23,570.6,8.329,24,24,29.4,1.79,2024-01-29,22
+53186,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,6.998,7,6,581.4,6.214,6,6,18.6,0.783,2024-02-12,22
+53187,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Eye abnormality","First stage",1,"Open Field 1",NA,NA,600,14.803,27,26,552,12.435,26,26,48,2.368,2024-02-12,22
+53187,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Eye abnormality","First stage",1,"Open Field 2",NA,NA,600,18.011,36,35,538,14.472,35,35,62,3.539,2024-01-29,22
+53188,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,600,11.388,13,12,577.9,10.907,12,12,22.1,0.48,2024-01-29,22
+53188,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,600,11.962,27,26,574.2,10.602,26,26,25.8,1.359,2024-02-12,22
+53189,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Removed Clam
+","First stage",1,"Open Field 3",NA,NA,600,8.341,21,20,564.8,7.175,20,20,35.2,1.166,2024-01-29,22
+53189,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Removed Clam
+","First stage",1,"Open Field 3",NA,NA,600,2.815,3,2,598.5,2.674,2,2,1.5,0.14,2024-02-12,22
+53191,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,15.8,2.832,2,1,14.8,2.662,1,1,0.9,0.17,2024-01-29,22
+53195,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,2.68,1,0,600,2.68,0,0,0,0,2024-01-29,22
+53195,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,5.601,4,3,595.6,5.338,3,3,4.4,0.263,2024-02-12,22
+53196,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,12.911,43,42,512.9,8.792,42,42,87.1,4.119,2024-01-29,22
+53196,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,14.372,28,28,543.8,12.929,28,27,56.2,1.442,2024-02-12,22
+53197,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Found dead
+","First stage",1,"Open Field 4",NA,NA,600,6.71,3,2,596.3,6.548,2,2,3.7,0.162,2024-02-12,22
+53197,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Found dead
+","First stage",1,"Open Field 4",NA,NA,600,6.776,8,7,583.8,6.349,7,7,16.2,0.427,2024-01-29,22
+53198,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 4",NA,NA,600,9.505,5,4,587.5,9.039,4,4,12.5,0.465,2024-01-29,22
+53198,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM","First stage",1,"Open Field 1",NA,NA,600,11.667,9,8,592.8,11.151,8,8,7.2,0.516,2024-02-12,22
+53199,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,4.339,5,4,591.7,4.209,4,4,8.3,0.131,2024-01-29,22
+53199,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,11.501,11,10,588,11.058,10,10,12,0.442,2024-02-12,22
+53201,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Found dead
+","First stage",1,"Open Field 1",NA,NA,600,7.222,4,3,598.7,7.131,3,3,1.3,0.09,2024-03-04,23
+53202,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,5.317,8,7,554.1,4.756,7,7,45.9,0.561,2024-03-04,23
+53203,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,12.162,37,36,560.2,10.354,37,37,39.8,1.808,2024-03-04,23
+53204,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"Health: Large Growth on right hind leg","First stage",1,"Open Field 4",NA,NA,600,7.887,3,2,598.7,7.779,2,2,1.3,0.108,2024-03-04,23
+53205,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 3",NA,NA,600,16.226,55,54,500.6,11.525,54,54,99.4,4.701,2024-03-04,23
+53206,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,16.258,27,26,569.4,14.018,26,26,30.6,2.24,2024-03-04,23
+53207,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Found dead 6/25","First stage",1,"Open Field 1",NA,NA,600,13.07,12,11,585,12.448,12,12,15,0.622,2024-03-04,23
+53208,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,10.517,8,7,587.6,9.999,8,8,12.4,0.518,2024-03-04,23
+53209,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,7.144,10,9,577.3,6.482,9,9,22.7,0.662,2024-03-04,23
+53211,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 4",NA,NA,600,15.264,9,8,581.9,14.361,8,8,18.1,0.904,2024-03-04,23
+53212,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,600,14.811,29,28,532.2,11.995,28,28,67.8,2.817,2024-03-04,23
+53213,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 3",NA,NA,600,12.544,12,11,586.4,12.105,11,11,13.6,0.439,2024-03-04,23
+53214,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : BSC 1.5, hunched, lethargic","First stage",1,"Open Field 4",NA,NA,600,2.35,2,1,599.5,2.319,1,1,0.5,0.031,2024-03-04,23
+53215,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Found dead.
+","First stage",1,"Open Field 1",NA,NA,600,13.977,25,24,549.1,12.739,24,24,50.9,1.238,2024-03-04,23
+53216,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Found dead 6/25","First stage",1,"Open Field 2",NA,NA,600,11.496,14,13,572.2,11.016,13,13,27.8,0.481,2024-03-04,23
+53217,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 1",NA,NA,600,10.794,4,3,592.1,10.459,3,3,7.9,0.335,2024-03-04,23
+53218,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,600,17.449,10,9,586.2,16.768,9,9,13.8,0.681,2024-03-04,23
+53220,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 3",NA,NA,600,9.411,15,14,585,8.461,14,14,15,0.95,2024-03-04,23
+53221,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 1",NA,NA,600,13.036,39,38,521.4,10.419,38,38,78.6,2.617,2024-03-04,23
+53222,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,600,14.083,22,21,563.9,12.272,21,21,36.1,1.811,2024-03-04,23
+53223,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 3",NA,NA,600,19.029,45,44,528,15.453,44,44,72,3.576,2024-03-04,23
+53225,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : BCS 2.0, moderate tail bites, hunched, tumor on hind leg","First stage",1,"Open Field 4",NA,NA,600,7.414,3,2,598.9,7.374,2,2,1.1,0.04,2024-03-04,23
+53226,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 1",NA,NA,600,11.441,37,36,495.8,7.959,37,37,104.2,3.482,2024-03-04,23
+53227,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,600,9.349,7,6,572,8.853,6,6,28,0.496,2024-03-04,23
+53228,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : BCS 2.0, severe tail bites, large tumor on back, distended abdomen. ","First stage",1,"Open Field 3",NA,NA,600,17.53,51,50,535,13.756,50,50,65,3.774,2024-03-04,23
+53230,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,600,16.148,34,33,530.4,12.97,33,33,69.6,3.179,2024-03-04,23
+53232,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29," : Respiratory distress, BCS 1.5","First stage",1,"Open Field 4",NA,NA,600,10.984,33,32,551.6,9.044,32,32,48.4,1.94,2024-03-04,23
+53233,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 1",NA,NA,600,9.558,17,16,576.8,8.715,16,16,23.2,0.843,2024-03-04,23
+53234,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-03-29,"","First stage",1,"Open Field 2",NA,NA,600,12.717,21,20,553.4,11.122,20,20,46.6,1.596,2024-03-04,23
+53440,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,7.088,1,0,600,7.088,0,0,0,0,2024-03-04,22
+53441,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Removed Clam
+","First stage",1,"Open Field 1",NA,NA,600,12.188,22,21,545.1,9.981,21,21,54.9,2.206,2024-03-04,22
+53442,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Water leak in FGB-44, Mice euthanized
+
+","First stage",1,"Open Field 2",NA,NA,600,12.165,12,11,575.1,11.417,12,12,24.9,0.748,2024-03-04,22
+53443,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Removed Clam
+","First stage",1,"Open Field 3",NA,NA,600,6.07,1,0,600,6.07,0,0,0,0,2024-03-04,22
+53444,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Mouse missing","First stage",1,"Open Field 4",NA,NA,600,8.52,1,0,600,8.52,0,0,0,0,2024-03-04,22
+53445,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Water leak in FGB-44, Mice euthanized
+
+","First stage",1,"Open Field 3",NA,NA,600,7.562,12,11,579.7,7.127,11,11,20.3,0.436,2024-03-04,22
+53446,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,16.808,25,24,566,14.55,24,24,34,2.258,2024-03-04,22
+53448,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Water leak in FGB-44, Mice euthanized
+
+","First stage",1,"Open Field 1",NA,NA,600,21.435,43,42,550.4,17.248,42,42,49.5,4.188,2024-03-04,22
+53450,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,8.911,1,0,600,8.911,0,0,0,0,2024-03-04,22
+53451,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq PM
+","First stage",1,"Open Field 2",NA,NA,600,6.152,3,2,599.1,6.152,2,2,0.9,0,2024-03-04,22
+53452,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,9.72,1,0,600,9.72,0,0,0,0,2024-03-04,22
+53453,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,6.315,5,4,597.4,6.269,4,4,2.6,0.046,2024-03-04,22
+53454,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,7.059,19,18,573.2,6.566,18,18,26.8,0.493,2024-03-04,22
+53455,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq PM","First stage",1,"Open Field 1","1/10/2024","10:35:00",600,16.487,33,32,533.7,13.847,33,33,66.3,2.64,2024-01-10,20
+53456,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM","First stage",1,"Open Field 2","1/10/2024","10:35:00",600,12.927,33,32,558.7,10.93,33,33,41.3,1.997,2024-01-10,20
+53457,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq PM","First stage",1,"Open Field 3","1/10/2024","10:35:00",600,12.096,29,28,540.6,7.895,29,29,59.4,4.201,2024-01-10,20
+53458,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM","First stage",1,"Open Field 4","1/10/2024","10:36:00",600,9.139,3,2,597.1,9.139,3,3,2.9,0,2024-01-10,20
+53459,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM","First stage",1,"Open Field 1","1/10/2024","10:51:00",600,10.171,16,15,526.3,8.431,16,16,73.7,1.741,2024-01-10,20
+53460,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM","First stage",1,"Open Field 2","1/10/2024","10:51:00",600,11.845,32,31,526.3,8.002,32,32,73.7,3.843,2024-01-10,20
+53461,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Hind leg paralysis, open lesion","First stage",1,"Open Field 3","1/10/2024","10:51:00",600,14.985,46,45,483.8,10.786,46,46,116.2,4.199,2024-01-10,20
+53463,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Card missing, mouse was tested and patched on 3/19/24
+","First stage",1,"Open Field 4","1/10/2024","10:51:00",600,14.161,17,16,578.6,12.926,17,17,21.4,1.235,2024-01-10,20
+53464,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 1","1/10/2024","11:13:00",600,12.329,14,13,552.1,10.666,14,14,47.9,1.663,2024-01-10,20
+53465,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 2","1/10/2024","11:13:00",600,8.386,32,31,512.6,6.245,32,32,87.4,2.141,2024-01-10,20
+53466,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq PM
+","First stage",1,"Open Field 3","1/10/2024","11:13:00",600,1.488,1,0,593,1.29,1,1,7,0.198,2024-01-10,20
+53467,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 4","1/10/2024","11:13:00",600,6.787,3,2,591.9,6.598,3,3,8.1,0.189,2024-01-10,20
+53468,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Card missing, mouse was tested and patched on 3/26/24
+","First stage",1,"Open Field 1","1/10/2024","11:32:00",600,6.511,8,7,588.8,5.934,7,7,11.2,0.577,2024-01-10,20
+53469,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 2","1/10/2024","11:33:00",600,14.876,15,14,578.8,13.412,15,15,21.2,1.463,2024-01-10,20
+53470,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 3","1/10/2024","11:33:00",600,14.035,11,10,579.1,12.536,10,10,20.9,1.499,2024-01-10,20
+53471,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 4","1/10/2024","11:33:00",600,12.478,26,25,577.5,10.65,26,26,22.5,1.828,2024-01-10,20
+53472,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 1","1/10/2024","11:53:00",600,8.247,4,3,588.3,8.113,4,4,11.7,0.133,2024-01-10,20
+53473,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq PM
+","First stage",1,"Open Field 2","1/10/2024","11:53:00",600,13.962,16,15,571.4,12.195,15,15,28.6,1.767,2024-01-10,20
+53474,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 3","1/10/2024","11:53:00",600,20.334,39,38,519.5,15.789,39,39,80.5,4.545,2024-01-10,20
+53475,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Card missing mouse tested and patch 4/4/24
+","First stage",1,"Open Field 4","1/10/2024","11:53:00",600,12.338,7,6,582.8,11.865,7,7,17.2,0.473,2024-01-10,20
+53476,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Mouse Found dead
+","First stage",1,"Open Field 1","1/10/2024","12:17:00",600,11.371,26,25,562.2,9.091,25,25,37.8,2.28,2024-01-10,20
+53477,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 2","1/10/2024","12:17:00",600,7.484,7,6,587.6,7.165,7,7,12.4,0.318,2024-01-10,20
+53478,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq PM
+","First stage",1,"Open Field 3","1/10/2024","12:17:00",600,2.718,3,2,560.9,2.397,2,2,39.1,0.321,2024-01-10,20
+53479,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-12," : Patch-Seq AM
+","First stage",1,"Open Field 4","1/10/2024","12:17:00",600,15.613,2,1,599.7,15.566,1,1,0.3,0.046,2024-01-10,20
+53612,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26," : Patch-Seq PM
+","First stage",1,"Open Field 3",NA,NA,600,1.834,2,1,589.2,1.702,1,1,10.8,0.133,2024-02-19,21
+53613,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26," : Removed Clam
+","First stage",1,"Open Field 4",NA,NA,600,3.951,4,3,589.5,3.532,4,4,10.5,0.419,2024-02-19,21
+53614,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26," : Patch-Seq AM
+
+","First stage",1,"Open Field 1",NA,NA,600,11.59,18,17,556.3,9.953,17,17,43.7,1.637,2024-02-19,21
+53615,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26," : Removed Clam
+","First stage",1,"Open Field 2",NA,NA,600,11.771,22,21,565.5,10.002,21,21,34.5,1.769,2024-02-19,21
+53616,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,4.332,5,4,592.1,4.065,4,4,7.9,0.268,2024-02-19,21
+53617,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,3.129,11,10,591.1,3.004,10,10,8.9,0.126,2024-02-19,21
+53618,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,9.022,16,15,569.4,7.892,15,15,30.6,1.13,2024-02-19,21
+53620,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,9.48,8,7,595.1,9.393,7,7,4.9,0.087,2024-02-19,21
+53621,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,2.907,1,0,600,2.907,0,0,0,0,2024-02-19,21
+53622,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,6.485,18,17,545.8,5.095,17,17,54.2,1.39,2024-02-19,21
+53623,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,11.49,13,12,538.8,9.996,12,12,61.2,1.495,2024-02-19,21
+53624,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,12.978,40,39,541.9,10.139,39,39,58.1,2.839,2024-02-19,21
+53625,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,8.605,2,1,598.6,8.535,1,1,1.4,0.07,2024-02-19,21
+53626,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,4.926,2,1,599.7,4.881,1,1,0.3,0.045,2024-02-19,21
+53627,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,13.438,7,6,586.7,13.025,6,6,13.3,0.414,2024-02-19,21
+53628,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,5.607,18,17,571.4,4.927,17,17,28.6,0.68,2024-02-19,21
+53629,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,2.458,1,0,600,2.458,0,0,0,0,2024-02-19,21
+53630,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26," : Large tumor, low BCS","First stage",1,"Open Field 2",NA,NA,600,14.658,36,36,543.6,12.101,36,35,56.4,2.558,2024-02-19,21
+53631,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,6.614,10,9,588.1,6.033,9,9,11.9,0.581,2024-02-19,21
+53632,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,16.062,31,30,541.2,12.713,31,31,58.8,3.349,2024-02-19,21
+53633,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,5.16,5,4,598.5,5.16,4,4,1.5,0,2024-02-19,21
+53634,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,10.798,25,24,530.4,8.68,24,24,69.6,2.118,2024-02-19,21
+53635,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,6.301,19,18,582.3,5.669,18,18,17.7,0.633,2024-02-19,21
+53636,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,9.82,6,5,591.4,9.533,5,5,8.6,0.287,2024-02-19,21
+53638,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,12.402,5,4,594,12.361,4,4,6,0.041,2024-02-19,21
+53639,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,12.317,18,17,576.6,10.889,17,17,23.4,1.428,2024-02-19,21
+53640,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,12.096,8,7,587.8,11.66,7,7,12.2,0.436,2024-02-19,21
+53641,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,8.021,5,4,585,7.793,4,4,15,0.228,2024-02-19,21
+53642,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,3.35,1,0,600,3.35,0,0,0,0,2024-02-19,21
+53643,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,10.486,5,4,595,10.262,4,4,5,0.225,2024-02-19,21
+53644,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,5.642,2,1,599.9,5.642,1,1,0.1,0,2024-02-19,21
+53645,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,10.19,6,5,588.7,9.587,5,5,11.3,0.603,2024-02-19,21
+53646,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,8.363,2,1,599.7,8.363,1,1,0.3,0,2024-02-19,21
+53647,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,8.889,6,5,595.7,8.802,5,5,4.3,0.087,2024-02-19,21
+53648,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,17.689,48,47,495,12.555,47,47,105,5.134,2024-02-19,21
+53649,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,2.412,6,5,585.9,2.228,5,5,14.1,0.184,2024-02-19,21
+53651,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,2.808,3,2,599.1,2.808,2,2,0.9,0,2024-02-19,21
+53652,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,13.552,8,7,583.8,13.078,7,7,16.2,0.473,2024-02-19,21
+53653,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,8.463,3,2,595,8.397,2,2,5,0.066,2024-02-19,21
+53654,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,9.467,16,15,568.5,7.948,15,15,31.5,1.518,2024-02-19,21
+53655,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,9.538,1,0,600,9.538,0,0,0,0,2024-02-19,21
+53656,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,9.448,9,8,593.4,9.162,8,8,6.6,0.286,2024-02-19,21
+53657,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,8.535,7,6,582.1,7.893,6,6,17.9,0.642,2024-02-19,21
+53658,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 3",NA,NA,600,14.296,30,29,569.2,12.399,29,29,30.8,1.897,2024-02-19,21
+53659,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 4",NA,NA,600,6.192,1,0,600,6.192,0,0,0,0,2024-02-19,21
+53660,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 1",NA,NA,600,6.222,2,1,594.2,6.083,2,2,5.8,0.14,2024-02-19,21
+53661,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-04-26,"","First stage",1,"Open Field 2",NA,NA,600,0.122,1,0,600,0.122,0,0,0,0,2024-02-19,21
+53952,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 1",NA,NA,600,18.658,27,26,549.9,16.468,26,26,50.1,2.19,2024-02-05,20
+53953,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 2",NA,NA,600,7.995,21,20,578.1,7.31,20,20,21.9,0.685,2024-02-05,20
+53954,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 3",NA,NA,600,9.95,5,4,597.1,9.911,4,4,2.9,0.04,2024-02-05,20
+53955,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 4",NA,NA,600,9.027,5,4,587.6,8.479,5,5,12.4,0.548,2024-02-05,20
+53956,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 1",NA,NA,600,7.13,4,3,586.5,6.92,3,3,13.5,0.21,2024-02-05,20
+53957,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 1",NA,NA,600,15.068,33,32,509.6,11.315,32,32,90.4,3.753,2024-02-05,20
+53958,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10," : Sent to sick mouse, large growth on face.","First stage",1,"Open Field 2",NA,NA,600,9.753,17,16,574.6,8.822,16,16,25.4,0.931,2024-02-05,20
+53959,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 3",NA,NA,600,10.194,26,25,546.8,8.535,25,25,53.2,1.658,2024-02-05,20
+53960,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 4",NA,NA,600,6.664,16,15,585.3,6.057,15,15,14.7,0.607,2024-02-05,20
+53961,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 1",NA,NA,600,7.865,22,21,543.5,5.887,21,21,56.5,1.978,2024-02-05,20
+53963,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 4",NA,NA,600,22.034,24,23,576.2,20.941,23,23,23.8,1.093,2024-02-05,20
+53964,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 1",NA,NA,600,15.694,36,35,544.4,11.768,35,35,55.6,3.926,2024-02-05,20
+53965,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 2",NA,NA,600,14.739,38,37,541.2,12.051,37,37,58.7,2.688,2024-02-05,20
+53966,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 3",NA,NA,600,14.645,30,29,568.3,12.201,29,29,31.7,2.444,2024-02-05,20
+53967,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 2",NA,NA,600,8.677,9,8,587.4,8.204,8,8,12.6,0.474,2024-02-05,20
+53968,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10," : Marked as euthanized on the cage card. No date listed","First stage",1,"Open Field 3",NA,NA,600,16.307,31,31,547.2,14.185,31,30,52.8,2.122,2024-02-05,20
+53969,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 4",NA,NA,600,6.429,13,12,585.4,5.961,12,12,14.6,0.468,2024-02-05,20
+53970,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 1",NA,NA,600,19.453,49,48,527.5,14.576,48,48,72.5,4.877,2024-02-05,20
+53971,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-10,"","First stage",1,"Open Field 2",NA,NA,600,5.716,5,4,588.2,5.329,4,4,11.8,0.387,2024-02-05,20
+54217,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24,"","First stage",1,"Open Field 1",NA,NA,600,8.528,12,11,581.9,8.265,12,12,18.1,0.263,2024-01-22,19
+54218,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24,"","First stage",1,"Open Field 2",NA,NA,600,6.168,4,3,592.9,5.878,3,3,7.1,0.289,2024-01-22,19
+54219,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : found dead.
+","First stage",1,"Open Field 3",NA,NA,600,8.086,11,10,595,7.485,10,10,5,0.601,2024-01-22,19
+54220,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24,"","First stage",1,"Open Field 4",NA,NA,600,6.763,20,19,554.7,6.034,19,19,45.3,0.73,2024-01-22,19
+54221,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Ghost mice removed 1/7/25","First stage",1,"Open Field 4",NA,NA,600,17.799,42,41,510.9,14.358,41,41,89.1,3.441,2024-01-22,19
+54222,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Ghost mice removed 1/7/25","First stage",1,"Open Field 1",NA,NA,600,18.043,57,56,463.7,11.567,57,57,136.3,6.475,2024-01-22,19
+54223,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24,"","First stage",1,"Open Field 2",NA,NA,600,6.541,41,41,255.5,3.23,41,40,344.5,3.311,2024-01-22,19
+54224,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24,"","First stage",1,"Open Field 3",NA,NA,600,11.336,21,20,561.9,9.72,20,20,38.1,1.616,2024-01-22,19
+54225,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24,"","First stage",1,"Open Field 4",NA,NA,600,9.893,16,15,562.6,8.327,15,15,37.4,1.566,2024-01-22,19
+54227,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,21.429,46,45,533,17.784,45,45,67,3.645,2024-01-22,19
+54228,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq PM
+","First stage",1,"Open Field 2",NA,NA,600,15.052,34,34,495.1,11.253,35,34,104.9,3.799,2024-01-22,19
+54229,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,14.889,44,43,523,12.228,43,43,77,2.662,2024-01-22,19
+54230,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Removed Clam
+","First stage",1,"Open Field 4",NA,NA,600,15.465,46,45,442.6,10.695,46,46,157.4,4.77,2024-01-22,19
+54231,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Removed Clam
+","First stage",1,"Open Field 1",NA,NA,600,9.988,13,12,570.4,9,13,13,29.6,0.987,2024-01-22,19
+54232,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq PM
+","First stage",1,"Open Field 2",NA,NA,600,19.048,54,54,465.5,13.259,54,53,134.5,5.789,2024-01-22,19
+54233,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,6.074,24,23,531,4.676,23,23,69,1.397,2024-01-22,19
+54234,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,18.923,32,31,522.3,15.523,32,32,77.7,3.4,2024-01-22,19
+54235,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq PM
+","First stage",1,"Open Field 1",NA,NA,600,21.502,58,57,500.6,16.341,57,57,99.4,5.161,2024-01-22,19
+54237,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq PM
+","First stage",1,"Open Field 1",NA,NA,600,10.726,25,24,572.3,8.577,24,24,27.7,2.148,2024-01-22,19
+54238,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,14.801,27,26,570.5,12.596,26,26,29.5,2.205,2024-01-22,19
+54240,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,8.567,5,4,595.8,8.442,4,4,4.2,0.125,2024-01-22,19
+54243,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,7.834,4,3,594.1,7.785,3,3,5.9,0.048,2024-01-29,20
+54244,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,3.018,4,3,584.6,2.697,3,3,15.4,0.321,2024-01-29,20
+54245,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Found dead","First stage",1,"Open Field 1",NA,NA,600,7.212,9,8,565.4,6.415,8,8,34.6,0.797,2024-01-29,20
+54246,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 2",NA,NA,600,3.868,13,12,569.3,2.89,12,12,30.7,0.979,2024-01-29,20
+54247,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : mouse only received one day of habituation","First stage",1,"Open Field 3",NA,NA,600,5.464,1,0,600,5.464,0,0,0,0,2024-01-29,20
+54249,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : mouse only received one day of habituation","First stage",1,"Open Field 2",NA,NA,600,5.408,18,17,493.5,3.816,18,18,106.5,1.591,2024-01-29,20
+54250,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 3",NA,NA,600,7.097,1,0,600,7.097,0,0,0,0,2024-01-29,20
+54251,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq PM","First stage",1,"Open Field 2",NA,NA,600,9.282,17,16,534.8,7.07,16,16,65.2,2.212,2024-01-29,20
+54252,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 3",NA,NA,600,6.674,8,7,592.1,6.361,7,7,7.9,0.313,2024-01-29,20
+54253,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq PM","First stage",1,"Open Field 4",NA,NA,600,11.879,8,7,583.6,11.089,7,7,16.4,0.79,2024-01-29,20
+54254,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 3",NA,NA,600,9.204,19,18,557.8,7.62,18,18,42.2,1.584,2024-01-29,20
+54255,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 1",NA,NA,600,19.915,53,52,497.6,14.232,52,52,102.4,5.682,2024-01-29,20
+54256,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq PM","First stage",1,"Open Field 4",NA,NA,600,16.53,19,18,573.3,15.41,18,18,26.7,1.12,2024-01-29,20
+54257,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 4",NA,NA,600,13.952,20,19,552.9,12.169,19,19,47.1,1.784,2024-01-29,20
+54258,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq PM","First stage",1,"Open Field 3",NA,NA,600,12.195,37,37,494.6,8.828,37,36,105.4,3.367,2024-01-29,20
+54259,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 4",NA,NA,600,16.576,31,30,519.1,13.271,30,30,80.9,3.305,2024-01-29,20
+54260,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Mice where not trained or tested","First stage",1,"Open Field 3",NA,NA,600,7.889,5,4,592,7.525,4,4,8,0.364,2024-01-29,20
+54261,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Mouse was trained but not tested, Tim and Zoey were both absent on Test day and the task was never properly reassigned.
+","First stage",1,"Open Field 3",NA,NA,600,5.173,9,8,583.4,4.566,8,8,16.6,0.606,2024-01-29,20
+54262,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 1",NA,NA,600,8.499,8,7,588,8.193,7,7,12,0.305,2024-01-29,20
+54263,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq PM","First stage",1,"Open Field 1",NA,NA,600,9.544,19,19,557.7,7.953,19,18,42.3,1.591,2024-01-29,20
+54264,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 1",NA,NA,600,10.056,2,1,598.5,10.015,1,1,1.5,0.04,2024-01-29,20
+54265,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-05-24," : Patch-Seq AM","First stage",1,"Open Field 4",NA,NA,600,6.889,3,2,594.6,6.757,2,2,5.4,0.132,2024-01-29,20
+57443,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Dates for Train and Test days not recorded, Freezeframe shows correct dates
+","First stage",1,"Open Field 2",NA,NA,600,11.293,22,21,556.1,9.341,21,21,43.9,1.953,2024-02-05,14
+57444,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Air was down in FGB44 led to a delay in start time on Test day.
+","First stage",1,"Open Field 3",NA,NA,600,6.84,14,13,575.6,5.591,13,13,24.4,1.248,2024-02-05,14
+57445,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Air was down in FGB44 led to a delay in start time on Test day.
+","First stage",1,"Open Field 4",NA,NA,600,4.797,3,2,594.5,4.679,2,2,5.5,0.118,2024-02-05,14
+57446,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Air was down in FGB44 led to a delay in start time on Train day, delay carried over to test day for consistency 
+","First stage",1,"Open Field 1",NA,NA,600,0.169,1,0,600,0.169,0,0,0,0,2024-02-05,14
+57447,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : found dead.
+","First stage",1,"Open Field 2",NA,NA,600,3.642,3,2,592.8,3.463,2,2,7.2,0.18,2024-02-05,14
+57448,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Derm","First stage",1,"Open Field 4",NA,NA,600,7.291,13,12,589.4,6.707,12,12,10.6,0.584,2024-02-05,14
+57449,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,23.63,70,69,470,16.127,69,69,130,7.503,2024-02-05,14
+57450,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq PM
+","First stage",1,"Open Field 2",NA,NA,600,6.418,18,18,551.2,5.28,18,17,48.8,1.138,2024-02-05,14
+57451,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,13.323,18,17,575.2,11.668,17,17,24.8,1.656,2024-02-05,14
+57452,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,10.131,16,15,572.7,9.02,15,15,27.3,1.111,2024-02-05,14
+57453,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,10.696,46,45,543.2,8.27,45,45,56.8,2.426,2024-02-05,14
+57454,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,6.084,10,9,587.4,5.376,9,9,12.6,0.709,2024-02-05,14
+57455,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Box unplugged for Train, removed after when 1st shock should have happened, 2nd try was set for test immediately fixed to train, kicked mouse trap between shock 3-4
+","First stage",1,"Open Field 1",NA,NA,600,8.398,14,13,561.8,7.187,13,13,38.2,1.21,2024-02-05,14
+57456,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq PM
+","First stage",1,"Open Field 2",NA,NA,600,8.982,26,25,534,6.911,25,25,66,2.071,2024-02-05,14
+57457,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,17.605,41,40,559.5,15.148,40,40,40.5,2.457,2024-02-05,14
+57458,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,10.15,13,12,575.3,9.063,12,12,24.7,1.087,2024-02-05,14
+57459,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,5.681,1,0,600,5.681,0,0,0,0,2024-02-05,14
+57460,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,1.154,2,1,599.7,1.052,1,1,0.3,0.102,2024-02-05,14
+57461,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,14.132,27,26,558,12.177,26,26,42,1.955,2024-02-05,14
+57462,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq PM
+","First stage",1,"Open Field 4",NA,NA,600,4.813,1,0,600,4.813,0,0,0,0,2024-02-05,14
+57463,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,9.644,25,24,551.6,7.61,24,24,48.4,2.034,2024-02-05,14
+57464,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 4",NA,NA,600,6.519,4,3,597.8,6.301,3,3,2.2,0.218,2024-02-05,14
+57465,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq AM
+","First stage",1,"Open Field 1",NA,NA,600,12.33,10,9,589.2,11.798,9,9,10.8,0.531,2024-02-05,14
+57466,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08,"","First stage",1,"Open Field 2",NA,NA,600,17.231,30,29,554.1,12.995,29,29,45.9,4.235,2024-02-05,14
+57467,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Missing 8/13","First stage",1,"Open Field 3",NA,NA,600,4.231,9,8,591.3,3.999,8,8,8.7,0.232,2024-02-05,14
+57468,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq PM
+","First stage",1,"Open Field 4",NA,NA,600,17.417,33,32,543.7,14.171,32,32,56.3,3.246,2024-02-05,14
+57470,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Ghost mice removed 1/7/25","First stage",1,"Open Field 1",NA,NA,600,7.178,8,7,582,6.787,7,7,18,0.391,2024-02-05,14
+57471,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08," : Patch-Seq PM
+","First stage",1,"Open Field 2",NA,NA,600,25.614,39,38,563.6,20.975,38,38,36.4,4.638,2024-02-05,14
+57472,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-11-08,"","First stage",1,"Open Field 3",NA,NA,600,9.977,26,25,575.1,8.953,25,25,24.9,1.024,2024-02-05,14
+57905,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 1",NA,NA,600,10.766,16,15,569.4,10.009,15,15,30.6,0.757,2024-03-18,15
+57906,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 2",NA,NA,600,18.543,37,37,537.9,15.479,38,37,62.1,3.064,2024-03-18,15
+57907,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 2",NA,NA,600,5.004,3,2,598.9,4.923,2,2,1.1,0.081,2024-03-18,15
+57908,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 1",NA,NA,600,13.111,30,29,537.5,11.409,29,29,62.5,1.703,2024-03-18,15
+57909,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 4",NA,NA,600,15.966,33,32,522.6,12.381,32,32,77.4,3.584,2024-03-18,15
+57910,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 1",NA,NA,600,19.374,40,39,534,15.886,40,40,66,3.488,2024-03-18,15
+57911,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 4",NA,NA,600,5.948,25,24,538.8,4.868,25,25,61.2,1.08,2024-03-18,15
+57912,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 1",NA,NA,600,7.109,13,12,584.5,6.86,13,13,15.5,0.25,2024-03-18,15
+57913,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 2",NA,NA,600,4.061,2,1,591.6,4.016,1,1,8.4,0.045,2024-03-18,15
+57914,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 4",NA,NA,600,9.918,28,28,569.1,8.924,28,27,30.9,0.994,2024-03-18,15
+57915,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 3",NA,NA,600,10.384,45,44,478.2,6.941,44,44,121.8,3.444,2024-03-18,15
+57916,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 1",NA,NA,600,0.355,1,0,600,0.355,0,0,0,0,2024-03-18,15
+57917,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 3",NA,NA,600,3.838,4,3,595.3,3.493,3,3,4.7,0.345,2024-03-18,15
+57918,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 2",NA,NA,600,10.807,20,19,547,8.662,19,19,53,2.146,2024-03-18,15
+57919,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 4",NA,NA,600,11.446,31,30,556.7,9.735,31,31,43.3,1.711,2024-03-18,15
+57920,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 1",NA,NA,600,15.717,49,48,507.6,12.86,48,48,92.4,2.857,2024-03-18,15
+57921,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 3",NA,NA,600,10.873,35,34,548.4,8.704,35,35,51.6,2.169,2024-03-18,15
+57922,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 1",NA,NA,600,8.534,17,16,560,7.022,16,16,40,1.512,2024-03-18,15
+57923,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 3",NA,NA,600,11.12,13,12,587.3,10.257,12,12,12.7,0.863,2024-03-18,15
+57924,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 4",NA,NA,600,8.613,31,30,524,6.895,31,31,76,1.718,2024-03-18,15
+57925,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 3",NA,NA,600,17.738,45,44,532,14.856,44,44,68,2.882,2024-03-18,15
+57926,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 4",NA,NA,600,9.668,33,32,487.4,7.63,32,32,112.6,2.038,2024-03-18,15
+57927,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 2",NA,NA,600,19.611,35,35,537.3,16.567,35,34,62.7,3.044,2024-03-18,15
+57928,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 1",NA,NA,600,11.226,28,27,500.4,8.658,27,27,99.6,2.569,2024-03-18,15
+57929,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13,"","First stage",1,"Open Field 1",NA,NA,600,10.065,40,39,512.4,6.961,40,40,87.6,3.104,2024-03-18,15
+57930,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13," : Patch-Seq AM
+","First stage",1,"Open Field 2",NA,NA,600,8.672,15,14,581.7,7.546,14,14,18.3,1.126,2024-03-18,15
+57931,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,14.373,31,30,536.9,11.352,30,30,63.1,3.02,2024-03-18,15
+57932,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13," : Patch-Seq AM
+","First stage",1,"Open Field 3",NA,NA,600,10.102,24,23,560.8,8.079,23,23,39.2,2.023,2024-03-18,15
+57933,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13," : Patch-Seq AM","First stage",1,"Open Field 3",NA,NA,600,5.942,7,6,589.5,5.399,6,6,10.5,0.542,2024-03-18,15
+57934,"Female","(CByB6F1/J x C3D2F1/J)/J",2022-12-13," : Patch-Seq AM","First stage",1,"Open Field 3",NA,NA,600,10.27,18,18,547.7,8.989,19,18,52.3,1.281,2024-03-18,15
